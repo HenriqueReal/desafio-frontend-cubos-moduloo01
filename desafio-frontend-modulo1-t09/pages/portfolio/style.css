@@ -1,0 +1,96 @@
+.manage {
+  display: flex;
+  justify-content: space-between;
+
+  margin-top: 94px;
+}
+
+.section-img img {
+  width: 540px;
+  height: 500px;
+}
+
+.section-text {
+  width: 350px;
+  height: 500px;
+  border-top: 1px solid #eaeaeb;
+  border-bottom: 1px solid #eaeaeb;
+}
+
+.section-h1 {
+  margin-top: 103px;
+  margin-bottom: 28px;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: -0.357143px;
+
+  color: #33323d;
+}
+
+.section-p {
+  margin-bottom: 54px;
+
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+
+  color: #33323d;
+
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.button-para-projeto {
+  width: 230px;
+  height: 48px;
+  padding: 17px 28px;
+  border: 1px solid #33323d;
+
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  background-color: #fafafa;
+  color: #33323d;
+
+  cursor: pointer;
+}
+
+.button-para-projeto-a {
+  color: #33323d;
+}
+
+.button-para-projeto:hover {
+  background-color: #33323d;
+  color: #fafafa;
+}
+
+.bookmark {
+  display: flex;
+  justify-content: space-between;
+
+  margin-top: 80px;
+}
+
+.insure {
+  display: flex;
+  justify-content: space-between;
+
+  margin-top: 80px;
+}
+
+.fylo {
+  display: flex;
+  justify-content: space-between;
+
+  margin-top: 80px;
+}

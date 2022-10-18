@@ -1,0 +1,175 @@
+.hero {
+  width: 1110px;
+  height: 600px;
+  margin-top: 54px;
+}
+
+.img-hero {
+  position: absolute;
+
+  width: 1110px;
+  height: 600px;
+}
+
+.apres {
+  position: absolute;
+
+  width: 445px;
+  height: 357px;
+  margin-top: 243px;
+
+  background-color: #fafafa;
+}
+
+.apres-text {
+  padding: 58px 21px 0px 27px;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 50px;
+  letter-spacing: -0.446429px;
+
+  color: #33323d;
+}
+
+.button-sobre-mim {
+  display: flex;
+  position: absolute;
+  align-items: center;
+
+  width: 200px;
+  height: 48px;
+  border: none;
+  top: 309px;
+
+  cursor: pointer;
+
+  background-color: #203a4c;
+}
+
+.button-sobre-mim:hover {
+  background-color: #5fb4a2;
+}
+
+.button-sobre-mim:hover svg g {
+  stroke: #ffffff;
+}
+
+.button-sobre-mim-img svg {
+  display: flex;
+  position: absolute;
+
+  margin: 20px 18px;
+}
+
+.button-sobre-mim-img {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  position: relative;
+  align-content: center;
+
+  width: 48px;
+  height: 48px;
+
+  background: #00000011;
+}
+
+.button-sobre-mim-text {
+  text-align: center;
+
+  margin-left: 30px;
+
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+
+  color: #ffffff;
+}
+
+.profile-sobre-mim {
+  display: flex;
+
+  margin-top: 149px;
+}
+
+.profile {
+  width: 540px;
+  height: 600px;
+}
+
+.img-profile {
+  width: 540px;
+  height: 600px;
+}
+
+.sobre-mim {
+  width: 430px;
+  height: 601px;
+  margin-left: 140px;
+  padding-top: 51px;
+  border-top: 1px solid #eaeaeb;
+  border-bottom: 1px solid #eaeaeb;
+}
+
+.sobre-mim-text-h1 {
+  margin-bottom: 28px;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: -0.357143px;
+
+  color: #33323d;
+}
+
+.sobre-mim-text-p {
+  width: 430px;
+  height: 360px;
+  margin-bottom: 24px;
+
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+
+  color: #33323d;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.button-para-portfolio {
+  width: 230px;
+  height: 48px;
+  margin-left: 113px;
+  padding: 17px 28px;
+  border: 1px solid #33323d;
+
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  background-color: #fafafa;
+  color: #33323d;
+
+  cursor: pointer;
+}
+
+.button-para-portfolio-a {
+  color: #33323d;
+}
+
+.button-para-portfolio:hover {
+  background-color: #33323d;
+  color: #fafafa;
+}

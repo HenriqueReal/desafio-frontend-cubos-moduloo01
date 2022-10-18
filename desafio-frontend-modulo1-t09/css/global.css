@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  font-family: "Ibarra Real Nova";
+}
+
+body {
+  margin-top: 64px;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: #fafafa;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.margin-left-rigth-213px {
+  margin-left: 213px;
+  margin-right: 213px;
+}
+
+.margin-left-165px {
+  margin-left: 165px;
+}
+
+.margin-rigth-165px {
+  margin-right: 1654px;
+}
